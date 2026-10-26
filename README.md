@@ -37,11 +37,11 @@ Submitted for **Internal Assessment — Personal Portfolio Project**.
 4. **Interactive Quiz Application (Lecture 10)**
    * Dynamic web assessment application evaluating LLMs, Git conventions, unit testing, and algorithm complexity with instant visual answer feedback and scoring.
    * Repository: [Aaryan-Raj21/interactive-quiz-app](https://github.com/Aaryan-Raj21/interactive-quiz-app)
-   * Live Demo: [interactive-quiz-app-aaryan-raj21.vercel.app](https://interactive-quiz-app-aaryan-raj21.vercel.app)
+   * Live Demo: [portfolio-aaryan-raj21.vercel.app/quiz/](https://portfolio-aaryan-raj21.vercel.app/quiz/) (or [GitHub Pages](https://aaryan-raj21.github.io/interactive-quiz-app/))
 5. **Book Reading List Application (Lecture 11)**
    * Responsive student reading list built with Bolt AI and deployed on Vercel. Features case-insensitive duplicate checking, a 60-character length limit, status category filters, and live summary counters.
    * Repository: [Aaryan-Raj21/reading-list-app](https://github.com/Aaryan-Raj21/reading-list-app)
-   * Live Demo: [reading-list-app-aaryan-raj21.vercel.app](https://reading-list-app-aaryan-raj21.vercel.app)
+   * Live Demo: [portfolio-aaryan-raj21.vercel.app/reading-list/](https://portfolio-aaryan-raj21.vercel.app/reading-list/) (or [GitHub Pages](https://aaryan-raj21.github.io/reading-list-app/))
 
 ### 3. Interactive Functionality
 * **Dynamic Project Search & Filter:** 
